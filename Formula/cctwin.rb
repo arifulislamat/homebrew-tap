@@ -1,8 +1,8 @@
 class Cctwin < Formula
   desc "Menu bar app to switch Claude Code between Claude accounts you own"
   homepage "https://github.com/arifulislamat/cctwin"
-  url "https://github.com/arifulislamat/cctwin/releases/download/v0.1.3/cctwin-0.1.3-universal-apple-darwin.tar.gz"
-  sha256 "fdb846d8c9698bfec59f46667239f25c08f56f9c7439dbdebaad4f8431f3fdd0"
+  url "https://github.com/arifulislamat/cctwin/releases/download/v0.1.4/cctwin-0.1.4-universal-apple-darwin.tar.gz"
+  sha256 "399239571f9910890f4f570cc30b6ab6748517d23a2812fa100c87335e4e4e05"
   license "MIT"
 
   depends_on :macos
